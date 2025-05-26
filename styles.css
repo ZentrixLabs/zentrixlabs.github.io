@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  background: #1A0B3D;
+  color: #E6F0FA;
+  text-align: center;
+  padding: 4rem;
+}
+
+a {
+  color: #00FFFF;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 3rem;
+  color: #FF007F;
+  margin-bottom: 1rem;
+}
+
+nav {
+  margin-bottom: 2rem;
+}
+
+nav a {
+  margin: 0 1rem;
+}
