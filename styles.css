@@ -1,9 +1,11 @@
-body {
-  font-family: sans-serif;
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
   background: #1A0B3D;
+  font-family: sans-serif;
   color: #E6F0FA;
   text-align: center;
-  padding: 4rem;
 }
 
 a {
